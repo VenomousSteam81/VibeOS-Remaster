@@ -1,0 +1,1 @@
+git clone -b PuB-2 https://github.com/vibeOS/vibeos-legacy.git
